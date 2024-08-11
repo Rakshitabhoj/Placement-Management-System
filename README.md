@@ -8,7 +8,7 @@ The **Placement Management System** is a web-based application designed to strea
 
 - **Student Profile Management**:
   - Students can create and update their profiles with academic and personal details.
-  - 
+    
 - **Job Posting and Management**:
   - Administrators can post new job opportunities.
   - Manage job details such as job description, eligibility criteria, and application deadlines.
@@ -72,11 +72,3 @@ The **Placement Management System** is a web-based application designed to strea
   - Register and log in to create a profile.
   - Browse available job postings and apply for suitable positions.
   - Track the status of your applications and view placement results.
-
-
-- [Your Name](https://github.com/yourusername)
-- [Email Address]
-
----
-
-Replace the placeholders with your actual details and adjust the content to match the specifics of your project.
