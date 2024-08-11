@@ -54,9 +54,8 @@ The **Placement Management System** is a web-based application designed to strea
     ```
 
 2. **Set up the database**:
-    - Create a MySQL database.
-    - Import the SQL file located in the `database/` directory to set up the necessary tables.
-    - Update the database configuration in `config.php`.
+    - Create a MySQL database named "placement".
+    - Import the SQL file(placement.sql) located in the `sql/` directory to set up the necessary tables.
 
 3. **Run the application**:
     - Start your PHP server (e.g., using XAMPP, MAMP, or a local server).
