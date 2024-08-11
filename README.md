@@ -41,6 +41,7 @@ The **Placement Management System** is a web-based application designed to strea
 
 ### Prerequisites
 
+- [XAMPP](https://www.apachefriends.org/index.html)
 - [PHP](https://www.php.net/downloads)
 - [MySQL](https://dev.mysql.com/downloads/mysql/)
 
